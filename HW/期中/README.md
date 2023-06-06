@@ -1,10 +1,10 @@
-    此報告和專案的內容是由ChatGPT和網路上的筆記做為參考整理而成的
+此報告和專案的內容是由ChatGPT和網路上的筆記做為參考整理而成的
 
 參考來源：
-    https://hackmd.io/@srhuang/Bkk2eY5ES
-    https://github.com/rswier/c4
-    https://johnwickerson.github.io/papers/c4_issta2021.pdf
-    https://github.com/chunqiu995/c4-x86
+https://hackmd.io/@srhuang/Bkk2eY5ES
+https://github.com/rswier/c4
+https://johnwickerson.github.io/papers/c4_issta2021.pdf
+https://github.com/chunqiu995/c4-x86
 
 概述：
     c4編譯器是一個相對於C語言開發的編譯器。從提供的資訊來看，有幾個與"C4編譯器"相關的項目，分別是rswier/c4、c4-x86和一份論文"C4: The C Compiler Concurrency Checker"。
